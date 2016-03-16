@@ -81,6 +81,8 @@ nav .orange{
 .quote{
 	display: block;
 	text-align: right;
+	float: right;
+	width: 600px;
 	padding-right: 300px;
 	margin-top: -300px;
 	font-size: 36px;
@@ -120,7 +122,9 @@ nav .orange{
 }
 
 .footer{
-	padding-bottom: 48px;
 	height: 100px;
+	padding: 10px;
 	background-color: #7ACBC8;
+	position: fixed;
+	width: 1350px;
 }
